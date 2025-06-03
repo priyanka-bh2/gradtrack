@@ -11,6 +11,15 @@ npm run dev
 ```
 
 3. Visit [http://localhost:3000](http://localhost:3000)
+
+---
+
+## 🚀 Live Demo
+
+👉 https://gradtrack-five.vercel.app/
+
+Experience GradTrack in action — track applications, analyze resumes, and stay interview-ready.
+
    
 ---
 
